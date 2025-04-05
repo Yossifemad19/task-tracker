@@ -1,0 +1,14 @@
+/home/youssef/RiderProjects/taskTracker/task-cli/bin/Debug/net8.0/task-cli
+/home/youssef/RiderProjects/taskTracker/task-cli/bin/Debug/net8.0/task-cli.deps.json
+/home/youssef/RiderProjects/taskTracker/task-cli/bin/Debug/net8.0/task-cli.runtimeconfig.json
+/home/youssef/RiderProjects/taskTracker/task-cli/bin/Debug/net8.0/task-cli.dll
+/home/youssef/RiderProjects/taskTracker/task-cli/bin/Debug/net8.0/task-cli.pdb
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.GeneratedMSBuildEditorConfig.editorconfig
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.AssemblyInfoInputs.cache
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.AssemblyInfo.cs
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.csproj.CoreCompileInputs.cache
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.dll
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/refint/task-cli.dll
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.pdb
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.genruntimeconfig.cache
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/ref/task-cli.dll
