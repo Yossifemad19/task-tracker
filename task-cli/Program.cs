@@ -15,7 +15,8 @@ class Program
         {
             var file = File.ReadAllText("tasks.json");
             tasks = JsonSerializer.Deserialize<List<Task>>(file);
-            Task.setIdCounter(tasks.Max(t => t.Id));
+            
+            Task.setIdCounter(tasks.Any()?tasks.Max(t => t.Id):0);
         }
         else
         {
