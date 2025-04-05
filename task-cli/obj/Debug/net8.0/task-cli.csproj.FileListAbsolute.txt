@@ -12,3 +12,4 @@
 /home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.pdb
 /home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.genruntimeconfig.cache
 /home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/ref/task-cli.dll
+/home/youssef/RiderProjects/taskTracker/task-cli/obj/Debug/net8.0/task-cli.sourcelink.json

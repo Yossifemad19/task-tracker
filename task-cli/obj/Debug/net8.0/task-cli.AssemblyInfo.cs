@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task-cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57627f51301e093e47d22a52d1dfc5f92410e063")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8072b08667e19fe9ea42becc2860564906619a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("task-cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task-cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
